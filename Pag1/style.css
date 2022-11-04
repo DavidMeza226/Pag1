@@ -48,3 +48,11 @@
     border: 3px solid #02b891;
     background-color: #0cce9a;
 }
+
+textarea{
+    resize: none;
+}
+
+button{
+    height:30px; width: 70px; vertical-align: middle;
+}
