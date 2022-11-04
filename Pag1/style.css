@@ -1,0 +1,50 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.main-div{
+    position: relative;
+    height: 460px;
+    width: 630px;
+    margin: 10px;
+    font-size:x-large;
+    border-radius: 10px;
+    border: 5px solid #298ae4;
+    background-color: #1fc9cc;
+}
+.div-carro{
+    position: absolute;    
+    margin: 10px;
+    top: 10px;
+    left: 10px;
+    height: 250px;
+    width: 270px;
+    text-align: center;
+    border-radius: 10px;
+    border: 3px solid #02b891;
+    background-color: #0cce9a;
+}
+.div-total{
+    position: absolute;
+    margin: 10px;
+    top: 10px;
+    right: 10px;
+    height: 250px;
+    width: 270px;
+    text-align: center;
+    border-radius: 10px;
+    border: 3px solid #02b891;
+    background-color: #0cce9a;
+}
+.div-result{
+    position: absolute;
+    bottom: 25px;
+    left: 20px;
+    right: 20px;
+    text-align: center;
+    border-radius: 10px;
+    border: 3px solid #02b891;
+    background-color: #0cce9a;
+}
